@@ -241,7 +241,6 @@ body {
     flex-direction: column-reverse;
     font-size: 0.9rem;
     display: none;
-
     .profile-image-container {
       display: none;
     }
